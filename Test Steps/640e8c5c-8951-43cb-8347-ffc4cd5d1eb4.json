@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to Page home",
+        "step 2: Login at Page home --> navigate to Page inventory-item html",
+        "step 3: Navigate to Page inventory-item html",
+        "step 4: Login at Page inventory-item html",
+        "step 5: At Page inventory-item html click on button add to cart item not found",
+        "step 6: Login at Page inventory-item html",
+        "step 7: Add visual checkpoint at Page inventory-item html"
+    ]
+}
