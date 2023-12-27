@@ -1,8 +1,6 @@
 Flow ID,Description,Test Steps,Flow Priority
-1,Flow 0,"step 1: Navigate to Page home
-step 2: Login at Page home --> navigate to Page inventory-item html
-step 3: Navigate to Page inventory-item html
-step 4: Login at Page inventory-item html
-step 5: At Page inventory-item html click on button add to cart item not found
-step 6: Login at Page inventory-item html
-step 7: Add visual checkpoint at Page inventory-item html",High
+1,Flow 0,"step 1: Navigate to Page ofile
+step 2: Login at Page ofile --> navigate to Page home
+step 3: Navigate to Page home --> navigate to Page checkout-step-two html
+step 4: Login at Page checkout-step-two html --> navigate to Page home
+step 5: Add visual checkpoint at Page home",High

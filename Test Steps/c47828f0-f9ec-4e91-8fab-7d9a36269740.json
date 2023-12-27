@@ -1,0 +1,9 @@
+{
+    "steps": [
+        "step 1: Navigate to Page ofile",
+        "step 2: Login at Page ofile --> navigate to Page home",
+        "step 3: Navigate to Page home --> navigate to Page checkout-step-two html",
+        "step 4: Login at Page checkout-step-two html --> navigate to Page home",
+        "step 5: Add visual checkpoint at Page home"
+    ]
+}
